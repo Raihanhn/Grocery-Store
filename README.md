@@ -1,2 +1,3 @@
-# Raihan2
-https://raihanhn.github.io/Raihan2/
+# Grocery-Store
+A responsive grocery store using HTML, CSS and JavaScript.
+Link: https://raihanhn.github.io/Grocery-Store/
